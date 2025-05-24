@@ -46,3 +46,5 @@ charset-normalizer==3.4.2
 chardet==5.2.0
 idna==3.10
 MarkupSafe==3.0.2
+
+gunicorn
